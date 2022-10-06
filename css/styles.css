@@ -1,4 +1,5 @@
 body{ 
     background-color: black;
     color: "4g4g4g";
+    background-image: -moz-element();
 }
